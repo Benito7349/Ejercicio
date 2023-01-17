@@ -11,5 +11,8 @@ Busquedas en Airbnb Medellín para el mes de octubre 2023:
 * Condo en Medellín (Superanfitrión) $1'913.039 mes.
   El Chagualo
 
-* Loft entero Anfitrión: Natalia $2.189950 mes.
+* Loft entero Anfitrión: Natalia $2'189950 mes.
   El Poblado
+
+* Vivienda rentada entero - Superanfitrión: Gabriel $1'466.509.
+  Laureles
