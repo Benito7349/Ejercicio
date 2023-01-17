@@ -3,3 +3,6 @@ Este es un ejercicio para aprender Git.
 Voy a agregar frases aleatorias con el fin de practicar.
 
 Hoy es 17 de enero de 2023.
+
+A las 3:45 de la tarde voy a salir a montar bicicleta con
+Davis por la vía que del ICP va a los Ermitaños.
